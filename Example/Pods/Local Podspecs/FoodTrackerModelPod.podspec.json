@@ -1,0 +1,23 @@
+{
+  "name": "FoodTrackerModelPod",
+  "version": "0.1.0",
+  "summary": "A short description of FoodTrackerModelPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Robert Heracles/FoodTrackerModelPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Robert Heracles": "Robert.Heracles@cbc.de"
+  },
+  "source": {
+    "git": "https://github.com/Robert Heracles/FoodTrackerModelPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "swift_version": "4.2",
+  "source_files": "FoodTrackerModelPod/Classes/**/*"
+}
